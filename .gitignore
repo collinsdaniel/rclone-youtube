@@ -1,0 +1,5 @@
+# Credenciais OAuth do Google (nunca versionar)
+client_secret*.json
+
+# macOS
+.DS_Store
